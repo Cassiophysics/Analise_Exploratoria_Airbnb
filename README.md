@@ -87,3 +87,11 @@ ___
 
 Linguagem Python e suas bibliotecas, Jupyter Notebook
 
+___
+
+## 🗺️ Renderização dos Mapas <h2>
+
+Alguns mapas não são renderizados no Github, para uma visualização completa: https://nbviewer.org/github/Cassiophysics/Analise-Exploratoria-Airbnb-RJ/blob/main/Analise-Exploratoria-Airbnb-RJ.ipynb
+  
+
+
