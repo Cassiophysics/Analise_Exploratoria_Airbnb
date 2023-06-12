@@ -1,7 +1,7 @@
 
 # Análise Exploratória de Dados - Airbnb RJ
 
-![capa_airbnb](https://github.com/Cassiophysics/Analise_Exploratoria_Airbnb/assets/108491443/150e950f-93dc-4b3d-b726-e12a0818a835)
+![capa_airbnb](https://github.com/Cassiophysics/Analise_Exploratoria_Airbnb/assets/108491443/b1c5ee57-6d37-4fef-9b01-ca02d125ccb6)
 
 Este é um projeto do tipo insights, no qual, por meio de uma análise exploratória de dados, teve como objetivo gerar insights e recomendações de soluções para o problema de negócio em questão.
 
