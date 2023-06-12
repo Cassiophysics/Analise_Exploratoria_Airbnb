@@ -1,15 +1,11 @@
 
 # Análise Exploratória de Dados - Airbnb RJ
 
-![rj2](https://user-images.githubusercontent.com/108491443/196445353-e07cf17a-3e40-4cc4-85ea-47cfa39e5aac.png)
+![capa_airbnb](https://github.com/Cassiophysics/Analise_Exploratoria_Airbnb/assets/108491443/150e950f-93dc-4b3d-b726-e12a0818a835)
 
 Este é um projeto do tipo insights, no qual, por meio de uma análise exploratória de dados, teve como objetivo gerar insights e recomendações de soluções para o problema de negócio em questão.
 
-
 Para tal fim, o conjunto de dados utilizado foi obtido a partir do site [KAGGLE](https://www.kaggle.com/) e refere-se a diversos tipos de acomodações ofertadas por meio do Airbnb na cidade do Rio de Janeiro no período de 2019 a 2020.
-
-
-![airbnb](https://user-images.githubusercontent.com/108491443/196446029-0b122bb3-4206-4dd2-b14d-53deb9b6c94c.png)
 
 Segundo o seu próprio site, o Airbnb “começou em 2008, quando dois designers que tinham um espaço sobrando hospedaram três viajantes que procuravam um lugar para ficar. Agora, milhões de anfitriões e viajantes optam por criar uma conta gratuita no Airbnb para que possam anunciar seu espaço e reservar acomodações únicas, em qualquer lugar do mundo. Além disso, os anfitriões de experiências do Airbnb compartilham suas paixões e interesses com viajantes e moradores locais. O Airbnb ajuda a tornar o compartilhamento fácil, agradável e seguro. Verificamos perfis pessoais e anúncios, mantemos um sistema de mensagens inteligente para que anfitriões e hóspedes possam se comunicar com segurança e gerenciamos uma plataforma confiável para recolher e transferir pagamentos.”
 
