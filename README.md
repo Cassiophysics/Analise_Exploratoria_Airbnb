@@ -21,17 +21,17 @@ O raciocínio utilizado para análise foi sistematizado em:
 
 **Importação das bibliotecas e do dataset**
 
-Foram empregues bibliotecas triviais para manipulação e visualização de dados. O dataset utilizado foi o listings
+Foram empregues bibliotecas triviais para manipulação e visualização de dados. O dataset utilizado foi o listings.
 
 **Exploração do dataset**
 
-Verificação do tamanho, colunas, tipos de dados, campos duplicados, valores nulos e estatísticas do dataset
+Verificação do tamanho, colunas, tipos de dados, campos duplicados, valores nulos e estatísticas do dataset.
 
 **Limpeza dos dados:**
 
 **Valores nulos**
 
-O dataset apresentou-se com uma grande quantidade de valores nulos. Diante disso, primeiramente definiu-se a exclusão de todas as colunas que contivessem mais de 10%(3371.5 linhas) dos valores nulos. Assim, 33 colunas foram excluídas. Em seguida, foi feita uma leitura do dicionário dos dados a fim de excluir todas as colunas nas quais conjecturou em um primeiro momento serem irrelevantes para a questão de negócio, eliminando-se deste modo, mais 51 colunas, nas quais, algumas também continham valores nulos. Logo após, os valores nulos no restante das colunas que sobraram foram substituídos pela mediana nas variáveis numéricas e pela moda nas variáveis categóricas. OBS: escolheu-se a mediana em detrimento da média com o intuito de evitar outliers
+O dataset apresentou-se com uma grande quantidade de valores nulos. Diante disso, primeiramente definiu-se a exclusão de todas as colunas que contivessem mais de 10%(3371.5 linhas) dos valores nulos. Assim, 33 colunas foram excluídas. Em seguida, foi feita uma leitura do dicionário dos dados a fim de excluir todas as colunas nas quais conjecturou em um primeiro momento serem irrelevantes para a questão de negócio, eliminando-se deste modo, mais 51 colunas, nas quais, algumas também continham valores nulos. Logo após, os valores nulos no restante das colunas que sobraram foram substituídos pela mediana nas variáveis numéricas e pela moda nas variáveis categóricas. OBS: escolheu-se a mediana em detrimento da média com o intuito de evitar outliers.
 
 **Outliers**
 
@@ -63,25 +63,25 @@ Quaisquer valores abaixo do Limite inferior ou acima do Limite superior são con
 
 **Data visualization**
 
-Em todas as perguntas de negócio que foram feitas buscou-se representar os dados através de diversos elementos visuais diferentes com a finalidade de respondê-las de forma elucidativa
+Em todas as perguntas de negócio que foram feitas buscou-se representar os dados através de diversos elementos visuais diferentes com a finalidade de respondê-las de forma elucidativa.
 
 **Conclusões finais**
 
-Algumas percepções finais acerca do dataset e das perguntas feitas
+Algumas percepções finais acerca do dataset e das perguntas feitas.
 
 **Insights**
 
-Com base na análise exploratória dos dados foi possível listar alguns insights para a questão de negócio
+Com base na análise exploratória dos dados foi possível listar alguns insights para a questão de negócio.
 
 **Referências**
 
-Fontes nas quais contribuíram para a elaboração deste projeto
+Fontes nas quais contribuíram para a elaboração deste projeto.
 
 ___
 
 :hammer_and_wrench: **Tecnologias utilizadas**
 
-Linguagem Python e suas bibliotecas, Jupyter Notebook
+Linguagem Python e suas bibliotecas, Jupyter Notebook.
 
 ___
 
