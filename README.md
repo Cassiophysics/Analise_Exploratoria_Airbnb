@@ -85,7 +85,13 @@ Em todas as perguntas de negócio que foram feitas buscou-se representar os dado
 
 ### 2- Quais são os Top 10 acomodações mais caras e mais baratas?
 
-**R:** 
+- Mais Caras:
+
+![maiorpreco](https://github.com/Cassiophysics/Analise_Exploratoria_Airbnb/assets/108491443/5627dcb0-f6c7-4be5-88db-4a4376dc2378)
+
+- Mais Baratas:
+
+![menorpreco](https://github.com/Cassiophysics/Analise_Exploratoria_Airbnb/assets/108491443/35ed6d27-faa5-418a-b7dc-bfa676e3f6c8)
 
 ### 3- Quais bairros apresentam a maior quantidade de acomodações e quais possuem maior faturação total?
 - Barra de Tijuca é o bairro que possui a maior quantidade de acomodações e a maior receita.
